@@ -27,6 +27,7 @@ Install dependencies via pip:
 
 ```bash
 pip install pyqrcode pillow
+```
 
 📦 Usage
 1. Clone or download the project.
