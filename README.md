@@ -41,6 +41,7 @@ python qr_generator.py
 
 📁 Project Structure
 QR_Code_Generator/
+
 ├── qr_code.py
 ├── README.md
 ├── PhilipsTech.png
