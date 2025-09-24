@@ -40,9 +40,9 @@ python qr_generator.py
 
 📁 Project Structure
 QR_Code_Generator/
-├── qr_generator.py
+├── qr_code.py
 ├── README.md
-├── <generated QR codes>.png
+├── PhilipsTech.png
 
 🧠 Notes
 QR codes are saved in the same directory as the script.
